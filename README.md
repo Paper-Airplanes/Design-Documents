@@ -4,7 +4,7 @@
 
 纸飞四季
 
-![纸飞四季](G:\计图\Project\Design-Documents\素材\纸飞四季.png)
+![](素材\纸飞四季.png)
 
 ### 项目简介
 
